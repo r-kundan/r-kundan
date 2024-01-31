@@ -1,4 +1,4 @@
-![logo](https://github.com/r-kundan/r-kundan/blob/main/_Banner%20(1).png)
+![logo](https://github.com/r-kundan/r-kundan/blob/main/_Banner%20(3).png)
 
 <h1 align="center">Hi 👋, I'm Renu Kund@n</h1>
 <h3 align="center">"Learning and Growing Every Day: My Journey into the World of Tech"</h3>
