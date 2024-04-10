@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **backend development**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-sage-omega.vercel.app/](https://my-portfolio-sage-omega.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://my-portfolio-3jql.vercel.app/))
 
 - 📫 How to reach me **renkundan@gmail.com**
 
