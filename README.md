@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **backend development**
 
-- 👨‍💻 All of my projects are available at (https://my-portfolio-3jql.vercel.app/))
+- 👨‍💻 All of my projects are available at (https://renu-kundan.vercel.app/))
 
-- 📫 How to reach me **renkundan@gmail.com**
+- 📫 How to reach me **https://linkedin.com/in/renu-kundan-338288208**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Y3pCcKxk_37RsP8m-VkaftWUp8F0FkHv/view?usp=sharing](https://drive.google.com/file/d/1Y3pCcKxk_37RsP8m-VkaftWUp8F0FkHv/view?usp=sharing)
 
