@@ -13,4 +13,4 @@
 - 💬 Ask me about frontend development, web design, or anything tech-related!
 - 📫 How to reach me: https://www.linkedin.com/in/renu-kundan-338288208/
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r-kundan&show_icons=true&locale=en&layout=compact" alt="r-kundan"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=r-kundan&show_icons=true&locale=en&layout=compact" alt="r-kundan"/></p>
